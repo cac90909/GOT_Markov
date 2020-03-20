@@ -14,3 +14,5 @@ z - the max number of desired words per line in the script
 
 An example of a create_scripts() calling is shown in the program.
 
+Post is featured on: https://cac90909.github.io/thecycle/pages/coding/got_markov.html
+
